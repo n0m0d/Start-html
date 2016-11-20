@@ -1,6 +1,15 @@
 # Start-html
 Frontend dev
-
+<ul>
+	<li><a></a></li>
+	<li><a></a></li>
+	<li><a></a></li>
+	<li><a></a></li>
+	<li><a></a></li>
+	<li><a></a></li>
+	<li><a>mixitup.kunkalabs.com</a> - Сортабельные анимированные плитки в портфолио</li>
+	<li><a>formspree.io</a> - Отправка заявок с сайта</li>
+<ul>
 ru.wordpress.org - Собственной персоной
 fontweb.ru - Шриты для веб-дизайна и верстки
 elementary.io - Спасибо за логотип :)
@@ -19,10 +28,3 @@ github.com/malihu/page-scroll-to-id - Плагин навигации по Landi
 imakewebthings.com/waypoints - Триггер для скролла
 daneden.github.io/animate.css - Анимация элементов на странице
 mixitup.kunkalabs.com - Сортабельные анимированные плитки в портфолио
-bourbon.io - Коллекция миксинов для SASS
-sass-lang.com - Препроцессор SASS
-koala-app.com - Компилятор для препроцессоров
-fontsquirrel.com/fonts/raleway - Бесплатный шрифт для нашей темы
-sublimetext.com - Редактор для фронт-енда
-jetbrains.com/phpstorm - Редактор для бэк-енда
-formspree.io - Отправка заявок с сайта
