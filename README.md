@@ -7,8 +7,8 @@ Frontend dev
 	<li><a></a></li>
 	<li><a></a></li>
 	<li><a></a></li>
-	<li><a>mixitup.kunkalabs.com</a> - Сортабельные анимированные плитки в портфолио</li>
-	<li><a>formspree.io</a> - Отправка заявок с сайта</li>
+	<li><a href="mixitup.kunkalabs.com">mixitup.kunkalabs.com</a> - Сортабельные анимированные плитки в портфолио</li>
+	<li><a href="formspree.io">formspree.io</a> - Отправка заявок с сайта</li>
 <ul>
 ru.wordpress.org - Собственной персоной
 fontweb.ru - Шриты для веб-дизайна и верстки
