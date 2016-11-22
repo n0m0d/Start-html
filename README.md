@@ -13,4 +13,5 @@ Frontend dev
 	<li><a href="imakewebthings.com/waypoint">imakewebthings.com/waypoint</a> - Триггер для скролла</li>
 	<li><a href="daneden.github.io/animate.css">daneden.github.io/animate.css</a> - Анимация элементов на странице</li>
 	<li><a href="formspree.io">formspree.io</a> - Отправка заявок с сайта</li>
+	<li><a href="https://codepen.io/CreativeJuiz/pen/oCBxz">https://codepen.io/CreativeJuiz/pen/oCBxz</a> - Красивая кнопка toggle меню</li>
 <ul>
