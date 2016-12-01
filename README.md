@@ -14,4 +14,5 @@ Frontend dev
 	<li><a href="daneden.github.io/animate.css">daneden.github.io/animate.css</a> - Анимация элементов на странице</li>
 	<li><a href="formspree.io">formspree.io</a> - Отправка заявок с сайта</li>
 	<li><a href="https://codepen.io/CreativeJuiz/pen/oCBxz">https://codepen.io/CreativeJuiz/pen/oCBxz</a> - Красивая кнопка toggle меню</li>
+	<li><a href="http://red-star.pro/css/uroki-css3-sozdanie-polosy-progressa-progress-bar-na-css3.html">http://red-star.pro/css/uroki-css3-sozdanie-polosy-progressa-progress-bar-na-css3.html</a> - Красивые полосы прогресса "прогресс бар"</li>
 <ul>
