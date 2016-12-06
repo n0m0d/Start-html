@@ -15,4 +15,5 @@ Frontend dev
 	<li><a href="formspree.io">formspree.io</a> - Отправка заявок с сайта</li>
 	<li><a href="https://codepen.io/CreativeJuiz/pen/oCBxz">https://codepen.io/CreativeJuiz/pen/oCBxz</a> - Красивая кнопка toggle меню</li>
 	<li><a href="http://www.internet-technologies.ru/articles/article_2450.html">http://www.internet-technologies.ru/articles/article_2450.html</a> - Красивые полосы прогресса "прогресс бары"</li>
+	<li><a href="https://mixitup.kunkalabs.com/">https://mixitup.kunkalabs.com/</a> - Красивые, анимированные плитки для портфолио-айтемов</li>
 <ul>
