@@ -17,4 +17,6 @@ Frontend dev
 	<li><a href="http://www.internet-technologies.ru/articles/article_2450.html">http://www.internet-technologies.ru/articles/article_2450.html</a> - Красивые полосы прогресса "прогресс бары"</li>
 	<li><a href="https://mixitup.kunkalabs.com/">https://mixitup.kunkalabs.com/</a> - Красивые, анимированные плитки для портфолио-айтемов</li>
 	<li><a href="https://codyhouse.co/gem/parallax-hero-image/">https://codyhouse.co/gem/parallax-hero-image/</a> - Красивые, анимированные плитки c 3D паралакс эффектом для портфолио-айтемов</li>
+	<li><a href="http://joelb.me/scrollpath/">http://joelb.me/scrollpath/</a> - Круговой параллакс</li>
+	<li><a href="http://markdalgleish.com/projects/stellar.js/docs/">http://markdalgleish.com/projects/stellar.js/docs/</a> - Ещё один параллакс</li>
 <ul>
