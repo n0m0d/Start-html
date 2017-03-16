@@ -21,4 +21,5 @@ Frontend dev
 	<li><a href="http://markdalgleish.com/projects/stellar.js/docs/">http://markdalgleish.com/projects/stellar.js/docs/</a> - Ещё один параллакс</li>
 	<li><a href="https://github.com/callmenick/Draw-Fill-SVG">https://github.com/callmenick/Draw-Fill-SVG</a> - Анимация заливки svg картинок</li>
 	<li><a href="http://www.idg.net.ua/blog/slide-menu-jquery">http://www.idg.net.ua/blog/slide-menu-jquery</a> - Анимация боковое выезжающее меню</li>
+	<li><a href="http://fotorama.io/">http://fotorama.io/</a> - Галерея для фотографий</li>
 <ul>
