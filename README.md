@@ -22,4 +22,5 @@ Frontend dev
 	<li><a href="https://github.com/callmenick/Draw-Fill-SVG">https://github.com/callmenick/Draw-Fill-SVG</a> - Анимация заливки svg картинок</li>
 	<li><a href="http://www.idg.net.ua/blog/slide-menu-jquery">http://www.idg.net.ua/blog/slide-menu-jquery</a> - Анимация боковое выезжающее меню</li>
 	<li><a href="http://fotorama.io/">http://fotorama.io/</a> - Галерея для фотографий</li>
+	<li><a href="http://garethdn.github.io/jquery-numerator/">http://garethdn.github.io/jquery-numerator/</a> - Анимация чисел на сайте</li>
 <ul>
