@@ -23,4 +23,5 @@ Frontend dev
 	<li><a href="http://www.idg.net.ua/blog/slide-menu-jquery">http://www.idg.net.ua/blog/slide-menu-jquery</a> - Анимация боковое выезжающее меню</li>
 	<li><a href="http://fotorama.io/">http://fotorama.io/</a> - Галерея для фотографий</li>
 	<li><a href="http://garethdn.github.io/jquery-numerator/">http://garethdn.github.io/jquery-numerator/</a> - Анимация чисел на сайте</li>
+	<li><a href="http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html">http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html</a> - Плавные различные скроллы (горизонтальные и вертикальные)</li>
 <ul>
