@@ -24,4 +24,5 @@ Frontend dev
 	<li><a href="http://fotorama.io/">http://fotorama.io/</a> - Галерея для фотографий</li>
 	<li><a href="http://garethdn.github.io/jquery-numerator/">http://garethdn.github.io/jquery-numerator/</a> - Анимация чисел на сайте</li>
 	<li><a href="http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html">http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html</a> - Плавные различные скроллы (горизонтальные и вертикальные)</li>
+	<li><a href="http://interactjs.io/">http://interactjs.io/</a> - Различные манипуляцие с объектами на JS (Изменение цветов, размеров объектов мышкой)</li>
 <ul>
